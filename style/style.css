@@ -5,3 +5,14 @@
     text-decoration: none;
     list-style: none;
 }
+
+.container{
+    max-width: 1320px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.header{
+    height: 100vh;
+    background: url(../images/headerbg.png) no-repeat center /cover;
+}
